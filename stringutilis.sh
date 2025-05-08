@@ -10,4 +10,6 @@ echo "branch name:" $branch
 echo "joining year:"
 read joining year
 echo "year:" $year
-
+echo "end year:"
+read year
+echo "endyear:" $year
