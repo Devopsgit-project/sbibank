@@ -7,3 +7,9 @@ echo "college name:"
 echo "Enter your branch:"
 read branch
 echo "branch name:" $branch
+echo "joining year:"
+read joining year
+echo "year:" $year
+echo "passing year:"
+read passing year
+echo "pass year:" $passyear
