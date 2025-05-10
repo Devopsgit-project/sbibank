@@ -10,3 +10,7 @@ echo "branch name:" $branch
 echo "joining year:"
 read joining year
 echo "year:" $year
+
+
+echo "my name is venkatasivudu"
+echo "my name is keshamma"
