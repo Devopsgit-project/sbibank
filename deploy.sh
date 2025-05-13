@@ -19,4 +19,13 @@ hi guys write the types of layers
 
 
 
+<<<<<<< HEAD
 my mothername is keshammma
+=======
+
+my collge name is tadipatri engineering college
+
+
+
+my name vandhakkkkaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+>>>>>>> devlopment
