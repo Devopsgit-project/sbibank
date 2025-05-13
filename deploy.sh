@@ -19,5 +19,4 @@ hi guys write the types of layers
 
 
 
-
-my collge name is tadipatri engineering college
+my mothername is keshammma
